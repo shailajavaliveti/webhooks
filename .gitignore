@@ -1,0 +1,8 @@
+.idea
+node_modules
+newrelic_agent.log
+npm-debug.log
+*.sh
+.vscode
+listener/public/app/*
+package-lock.json

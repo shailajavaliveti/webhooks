@@ -1,0 +1,23 @@
+{
+  "name": "webhooksinterface",
+  "description": "Provides a target URL for Rally webhooks. Any message received is posted in a message broker.",
+  "main": "index.js",
+  "authors": [
+    "proceff.tools@intel.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3",
+    "angular": "^1.7.0",
+    "bootstrap": "^4.1.1"
+  }
+}

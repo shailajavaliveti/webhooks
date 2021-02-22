@@ -1,0 +1,9 @@
+{
+  "directory": "listener/public/app/bower_components",
+  "registry": {
+    "search": [
+      "http://bowerregistry.intel.com",
+      "https://registry.bower.io"
+    ]
+  }
+}
